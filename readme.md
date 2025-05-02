@@ -12,6 +12,8 @@ Features:
 
 Notes:
 
+- recreating this example: https://getbootstrap.com/docs/4.0/examples/album/
+
 Challenges:
 
 Future Development:
