@@ -13,6 +13,7 @@ Features:
 Notes:
 
 - recreating this example: https://getbootstrap.com/docs/4.0/examples/album/
+- took roughly 45 min to get to this mock up.
 
 Challenges:
 
