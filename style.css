@@ -2,6 +2,14 @@
     margin: 0;
     padding: 0;
 }
-nav {
-  
+
+.container {
+    text-align: center;
+    width: 70%;
+    padding: 150px;
+}
+.container p {
+    font-size: 30px;
+    font-weight: 100;
+    color: grey;
 }
